@@ -8,6 +8,6 @@ I am a computer science student, who wants to become a full stack developer.
    * CSS
    * JavaScript
    
-##Projects
+## Projects
 
   * [Mentoring ll - AndromedaSolids](https://github.com/gabgarciacode/AndromedaSolids)

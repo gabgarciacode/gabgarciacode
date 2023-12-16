@@ -1,7 +1,3 @@
-## Hello Coders!
-
-I am a computer science student, who wants to become a full stack developer.
-
 ## Programming Languages
    * C
    * HTML5
